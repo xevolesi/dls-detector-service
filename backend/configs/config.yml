@@ -1,0 +1,21 @@
+class_names: [
+     'person', 'bicycle', 'car', 'motorcycle', 'airplane', 'bus', 'train', 'truck', 'boat', 'traffic light',
+     'fire hydrant', 'stop sign', 'parking meter', 'bench', 'bird', 'cat', 'dog', 'horse', 'sheep', 'cow',
+     'elephant', 'bear', 'zebra', 'giraffe', 'backpack', 'umbrella', 'handbag', 'tie', 'suitcase', 'frisbee',
+     'skis', 'snowboard', 'sports ball', 'kite', 'baseball bat', 'baseball glove', 'skateboard', 'surfboard',
+     'tennis racket', 'bottle', 'wine glass', 'cup', 'fork', 'knife', 'spoon', 'bowl', 'banana', 'apple',
+     'sandwich', 'orange', 'broccoli', 'carrot', 'hot dog', 'pizza', 'donut', 'cake', 'chair', 'couch',
+     'potted plant', 'bed', 'dining table', 'toilet', 'tv', 'laptop', 'mouse', 'remote', 'keyboard', 'cell phone',
+     'microwave', 'oven', 'toaster', 'sink', 'refrigerator', 'book', 'clock', 'vase', 'scissors', 'teddy bear',
+     'hair drier', 'toothbrush'
+]
+class_colors: {'person': [92, 98, 160], 'bicycle': [213, 206, 170], 'car': [246, 234, 254], 'motorcycle': [186, 142, 100], 'airplane': [249, 161, 121], 'bus': [131, 224, 87], 'train': [140, 198, 248], 'truck': [118, 161, 246], 'boat': [180, 227, 198], 'traffic light': [177, 109, 230], 'fire hydrant': [253, 213, 159], 'stop sign': [92, 202, 95], 'parking meter': [126, 156, 130], 'bench': [227, 229, 247], 'bird': [215, 112, 117], 'cat': [241, 235, 239], 'dog': [207, 107, 180], 'horse': [160, 120, 185], 'sheep': [208, 195, 199], 'cow': [228, 134, 177], 'elephant': [106, 240, 187], 'bear': [245, 235, 234], 'zebra': [249, 212, 226], 'giraffe': [106, 142, 143], 'backpack': [245, 181, 246], 'umbrella': [86, 119, 205], 'handbag': [169, 98, 108], 'tie': [94, 88, 118], 'suitcase': [133, 217, 228], 'frisbee': [93, 204, 93], 'skis': [217, 96, 235], 'snowboard': [246, 138, 151], 'sports ball': [183, 248, 132], 'kite': [197, 85, 230], 'baseball bat': [146, 234, 256], 'baseball glove': [214, 163, 209], 'skateboard': [255, 217, 95], 'surfboard': [156, 171, 157], 'tennis racket': [233, 235, 175], 'bottle': [222, 255, 187], 'wine glass': [127, 210, 176], 'cup': [175, 171, 207], 'fork': [87, 229, 211], 'knife': [178, 91, 150], 'spoon': [244, 186, 247], 'bowl': [135, 240, 176], 'banana': [216, 118, 186], 'apple': [102, 166, 217], 'sandwich': [209, 168, 201], 'orange': [164, 145, 225], 'broccoli': [185, 222, 183], 'carrot': [170, 204, 195], 'hot dog': [231, 145, 191], 'pizza': [129, 185, 241], 'donut': [135, 86, 109], 'cake': [85, 132, 92], 'chair': [89, 230, 113], 'couch': [99, 201, 252], 'potted plant': [131, 230, 192], 'bed': [115, 141, 245], 'dining table': [233, 230, 161], 'toilet': [98, 231, 99], 'tv': [200, 204, 93], 'laptop': [106, 113, 210], 'mouse': [198, 102, 148], 'remote': [252, 219, 151], 'keyboard': [224, 216, 108], 'cell phone': [85, 136, 198], 'microwave': [210, 158, 161], 'oven': [229, 108, 154], 'toaster': [255, 92, 255], 'sink': [101, 103, 201], 'refrigerator': [114, 86, 212], 'book': [250, 102, 252], 'clock': [182, 221, 149], 'vase': [118, 185, 169], 'scissors': [101, 228, 159], 'teddy bear': [126, 210, 88], 'hair drier': [86, 220, 174], 'toothbrush': [144, 243, 169]}
+available_image_extensions:
+  - png
+  - jpg
+  - jpeg
+available_video_extensions:
+  - webm
+  - avi
+  - mp4
+  - mkv

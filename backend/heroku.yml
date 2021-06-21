@@ -1,0 +1,8 @@
+build:
+  docker:
+    web: Dockerfile
+  config:
+    VIDEO_API_BASE_PATH: "https://detector-backend-api.herokuapp.com:"
+    PORT: "80"
+run:
+  web: uvicorn app:app --host 0.0.0.0 --port $PORT

@@ -60,12 +60,12 @@
 1) Склонируйте репозиторий себе на машину;
 2) Создайте `.env` файл рядом с `backend/.env.example` файлом со следующим содержимым
 
-    VIDEO_API_BASE_PATH = http://127.0.0.1:
-	PORT = 3001
+    	VIDEO_API_BASE_PATH = http://127.0.0.1:
+		PORT = 3001
 
 3) Создайте `.env.local` пядом с `frontend/.env.production` файлом со следующим содержимым:
 
-	NEXT_PUBLIC_API_URL=http://localhost:3001/
+		NEXT_PUBLIC_API_URL=http://localhost:3001/
 
 4) Выполните команду `docker-compose up`;
 5) Откройте браузер и перейдите по адресу `http://localhost:3000`
